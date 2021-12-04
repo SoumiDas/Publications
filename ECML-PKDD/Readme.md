@@ -1,4 +1,4 @@
-This repository contains the following files:
+This repository contains the following files for the paper accepted at ECML-PKDD 2021 <i> Finding High-Value Training Data Subset through Differentiable Convex Programming </i>:
 
 1. Paper
 
