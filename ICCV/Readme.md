@@ -1,4 +1,4 @@
-<b> This repository contains the following files: </b>
+<b> This repository contains the following files for the paper accepted at ICCV 2021 <i>''TMCOSS: Thresholded Multi-Criteria Online Subset Selection for Data-Efficient Autonomous Driving'' </i>: </b>
 
 1. Paper
 
