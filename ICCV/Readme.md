@@ -1,11 +1,11 @@
 <b> This repository contains the following files: </b>
 
-Paper
+1. Paper
 
-Poster
+2. Poster
 
-Conference presentation slides
+3. Conference presentation slides
 
-Conference presentation recording : https://youtu.be/YyzqoJC2NQQ
+4. Conference presentation recording : https://youtu.be/YyzqoJC2NQQ
 
-Code repository: https://github.com/SoumiDas/TMCOSS
+5. Code repository: https://github.com/SoumiDas/TMCOSS
