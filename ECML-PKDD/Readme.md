@@ -6,4 +6,6 @@
 
 3. Conference presentation slides
 
+4. Conference presentation recording: https://youtu.be/h-Mqu-M2f5A
+
 4. Code repository: https://github.com/SoumiDas/HOST-CP
