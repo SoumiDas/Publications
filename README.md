@@ -1,5 +1,7 @@
 # Publications
 
-1. ECML-PKDD 2021
+1. Pattern Recognition Letters (PRL) 2020
 
-2. ICCV 2021
+2. ECML-PKDD 2021
+
+3. ICCV 2021
